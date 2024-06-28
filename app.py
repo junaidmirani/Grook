@@ -1,2 +1,2 @@
 def simple():
-    return "this is zuulo"
+    return "this is junaid"
